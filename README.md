@@ -4,10 +4,11 @@ A list of assets that ERNI España embedded community has.
 
 [Victor Perez]: mailto:victor.perez@erni-espana.es
 [Jordi Rebul]: mailto:jordi.rebull@erni-espana.es
+[De la Fuente Antequera Carlos]: carlos.delafuente@erni-espana.es
 
 | #  | description         | id | where               | who            | when       | comments                 |
 |----|---------------------|----|---------------------|----------------|------------|--------------------------|
-| 1  | turtlebot           | #1 |                     | Lionel         | 2019-04-12 | Hernán gave it to Lionel |
+| 1  | turtlebot           | #1 |                     | [De la Fuente Antequera Carlos] | 2019-04-12 | Hernán gave it to Lionel |
 | 2  | turtlebot           | #2 |                     | [Jordi Rebul]  | 2019-05-19 |                          |
 | 4  | turtlebot           | #3 | SantCugat Office    |                | 2019-05-15 |                          |
 | 4  | turtlebot           | #4 | SantCugat Office    |                | 2019-05-15 |                          |
